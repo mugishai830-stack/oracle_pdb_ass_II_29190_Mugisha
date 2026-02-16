@@ -88,10 +88,10 @@ GRANT DBA TO muggisha_plsqlauca_29190;
 ![PDB Open State Verification](IMAGES/Show%20PDB%20in%20OPEN%20state.png)
 *Screenshot verifying mu_pdb_29190 is in READ WRITE (OPEN) state*
 
-![User Creation Confirmation](screenshots/task1_user_created.png)
+![User Creation Confirmation](IMAGES/TASK%202%20USER%20CREATED.png)
 *Screenshot showing muggisha_plsqlauca_29190 user created with OPEN account status*
 
-![User Login Verification](screenshots/task1_user_login.png)
+![User Login Verification](IMAGES/VERIFICATION%20PDB%20USER.png)
 *Screenshot demonstrating successful login as muggisha_plsqlauca_29190*
 
 ---
