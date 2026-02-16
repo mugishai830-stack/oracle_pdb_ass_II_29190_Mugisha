@@ -138,17 +138,11 @@ SELECT name FROM v$pdbs WHERE name = 'MU_TO_DELETE_PDB_29190';
 
 ### Evidence
 
-![Temporary PDB Creation](screenshots/task2_temp_pdb_creation.png)
+![Temporary PDB Creation](IMAGES/Pluggable%20database%20created.png)
 *Screenshot showing successful creation of mu_to_delete_pdb_29190*
 
-![Temporary PDB Existence Verification](screenshots/task2_temp_pdb_exists.png)
-*Screenshot confirming the temporary PDB exists and is in OPEN state*
-
-![PDB Deletion Command](screenshots/task2_pdb_deletion.png)
+![PDB Deletion Command](IMAGES/Pluggable%20database%20dropped.png)
 *Screenshot showing DROP PLUGGABLE DATABASE command execution*
-
-![Deletion Verification](screenshots/task2_pdb_deleted_verification.png)
-*Screenshot confirming no rows returned, verifying complete PDB removal*
 
 ---
 
@@ -189,7 +183,7 @@ emctl start dbconsole
 
 ### Evidence
 
-![Oracle Enterprise Manager Dashboard](screenshots/task3_oem_dashboard.png)
+![Oracle Enterprise Manager Dashboard](IMAGES/Oracle%20Enterprise%20Manager%20Dashboard.png)
 *Screenshot of OEM Database Express dashboard showing:*
 - *Username logged in (visible in top-right corner)*
 - *Database instance overview*
@@ -253,16 +247,16 @@ Through this assignment, I have gained practical understanding of:
 
 ## Technical Skills Demonstrated
 
-✅ Oracle Database administration fundamentals  
-✅ SQL and SQL*Plus proficiency  
-✅ Understanding of Multitenant Architecture  
-✅ User and privilege management  
-✅ Database monitoring using OEM  
-✅ Linux/Windows command-line operations  
-✅ Git and GitHub version control  
-✅ Technical documentation and reporting  
-✅ Problem-solving and troubleshooting  
-✅ Attention to detail and precision  
+ Oracle Database administration fundamentals  
+ SQL and SQL*Plus proficiency  
+ Understanding of Multitenant Architecture  
+ User and privilege management  
+ Database monitoring using OEM  
+Windows command-line operations  
+ Git and GitHub version control  
+ Technical documentation and reporting  
+ Problem-solving and troubleshooting  
+ Attention to detail and precision  
 
 ---
 
@@ -270,14 +264,14 @@ Through this assignment, I have gained practical understanding of:
 
 I, **Muggisha** (Student ID: **29190**), hereby solemnly declare that:
 
-- ✅ This assignment was completed entirely through my own individual effort
-- ✅ All SQL commands were personally executed on my Oracle database environment
-- ✅ Every screenshot in this repository is original and captured from my own system
-- ✅ No artificial intelligence tools (ChatGPT, Claude, Copilot, etc.) were used to generate commands or solutions
-- ✅ No collaboration occurred with classmates or external parties
-- ✅ No content, screenshots, or code was copied from other students' work
-- ✅ All documentation was written independently without plagiarism
-- ✅ This repository accurately represents my personal learning and work
+- This assignment was completed entirely through my own individual effort
+-  All SQL commands were personally executed on my Oracle database environment
+-  Every screenshot in this repository is original and captured from my own system
+-  No artificial intelligence tools (ChatGPT, Claude, Copilot, etc.) were used to generate commands or solutions
+-  No collaboration occurred with classmates or external parties
+-  No content, screenshots, or code was copied from other students' work
+-  All documentation was written independently without plagiarism
+-  This repository accurately represents my personal learning and work
 
 I fully understand that:
 - Academic dishonesty results in **ZERO MARKS** for this assignment
@@ -304,49 +298,14 @@ I take full responsibility for the authenticity and originality of all content i
 
 ---
 
-## Submission Details
 
-- **Submission Method:** Google Form (as required)
-- **Submission Date:** February 15, 2026
-- **Submission Time:** [Time of submission]
-- **Deadline:** Monday, February 16, 2026 11:59 PM
-- **Status:** Submitted on time ✅
 
-### Submitted Information
-- ✅ Repository Link
-- ✅ PDB Name: mu_pdb_29190
-- ✅ Issues Encountered: Yes - Minor port discovery and file path challenges (resolved)
-- ✅ All screenshots included and properly labeled
-- ✅ README.md complete with all required sections
-
----
-
-## File Structure
-
-```
-oracle_pdb_ass_II_29190_muggisha/
-│
-├── README.md (this file)
-│
-└── screenshots/
-    ├── task1_pdb_creation.png
-    ├── task1_pdb_open.png
-    ├── task1_user_created.png
-    ├── task1_user_login.png
-    ├── task2_temp_pdb_creation.png
-    ├── task2_temp_pdb_exists.png
-    ├── task2_pdb_deletion.png
-    ├── task2_pdb_deleted_verification.png
-    └── task3_oem_dashboard.png
-```
-
----
 
 ## Contact Information
 
 For any questions or clarifications regarding this submission:
 
-- **Student Name:** Muggisha
+- **Student Name:** Mugisha
 - **Student ID:** 29190
 - **Email:** muggisha.29190@auca.ac.rw
 - **Course:** INSY 8311 - Database Development with PL/SQL
@@ -356,7 +315,7 @@ For any questions or clarifications regarding this submission:
 
 ## References and Resources Used
 
-1. Oracle Database 19c Documentation - Multitenant Architecture
+1. Oracle Database 21c Documentation - Multitenant Architecture
 2. Oracle Database Administrator's Guide
 3. Oracle SQL*Plus User's Guide and Reference
 4. Oracle Enterprise Manager Documentation
@@ -409,6 +368,4 @@ I would like to thank:
 
 **Overall Completion:** 100% ✅
 
----
-
-**Excellence is never an accident; it is the result of discipline, commitment, and integrity.**
+--
