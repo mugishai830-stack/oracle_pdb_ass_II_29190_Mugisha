@@ -82,10 +82,10 @@ GRANT DBA TO muggisha_plsqlauca_29190;
 
 ### Evidence
 
-![PDB Creation Command and Success](screenshots/task1_pdb_creation.png)
+![PDB Creation Command and Success](IMAGES/Capture%20creation%20success%20message.png)
 *Screenshot showing the CREATE PLUGGABLE DATABASE command execution and success message*
 
-![PDB Open State Verification](screenshots/task1_pdb_open.png)
+![PDB Open State Verification](IMAGES/Show%20PDB%20in%20OPEN%20state.png)
 *Screenshot verifying mu_pdb_29190 is in READ WRITE (OPEN) state*
 
 ![User Creation Confirmation](screenshots/task1_user_created.png)
