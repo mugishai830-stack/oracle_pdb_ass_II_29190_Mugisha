@@ -152,7 +152,7 @@ SELECT name FROM v$pdbs WHERE name = 'MU_TO_DELETE_PDB_29190';
 Access and navigate Oracle Enterprise Manager Database Express to monitor database environment and verify completion of PDB management tasks.
 
 ### OEM Configuration
-- **Access URL:** https://localhost:1158/em
+- **Access URL:** https://localhost:5500/em/shell
 - **Authentication:** SYSDBA credentials
 - **Status:** Operational and accessible
 - **Features Verified:** 
