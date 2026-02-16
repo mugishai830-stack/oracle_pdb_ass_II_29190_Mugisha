@@ -273,43 +273,10 @@ I, **Muggisha** (Student ID: **29190**), hereby solemnly declare that:
 -  All documentation was written independently without plagiarism
 -  This repository accurately represents my personal learning and work
 
-I fully understand that:
-- Academic dishonesty results in **ZERO MARKS** for this assignment
-- Violations may lead to disciplinary action per AUCA academic policies
-- Integrity is fundamental to my development as a database professional
-
 I take full responsibility for the authenticity and originality of all content in this submission.
 
-**Student Signature:** Muggisha  
-**Date:** February 15, 2026  
+**Student Signature:** Mugisha    
 **Student ID:** 29190  
-
----
-
-## Repository Information
-
-- **Repository Name:** oracle_pdb_ass_II_29190_muggisha
-- **Visibility:** PUBLIC (as required)
-- **GitHub URL:** https://github.com/[your-username]/oracle_pdb_ass_II_29190_muggisha
-- **Creation Date:** February 15, 2026
-- **Last Updated:** February 15, 2026
-- **Total Commits:** [Will be updated]
-- **License:** For educational purposes only
-
----
-
-
-
-
-## Contact Information
-
-For any questions or clarifications regarding this submission:
-
-- **Student Name:** Mugisha
-- **Student ID:** 29190
-- **Email:** muggisha.29190@auca.ac.rw
-- **Course:** INSY 8311 - Database Development with PL/SQL
-- **Instructor:** Eric Maniraguha (eric.maniraguha@auca.ac.rw)
 
 ---
 
@@ -323,31 +290,13 @@ For any questions or clarifications regarding this submission:
 
 ---
 
-## Future Applications
 
-The skills developed in this assignment will be applied in:
-- Future PL/SQL laboratory sessions
-- Database design and development projects
-- Enterprise database administration scenarios
-- Performance tuning and optimization tasks
-- Multi-tenant application deployments
-
----
-
-## Acknowledgments
-
-I would like to thank:
-- **Instructor Eric Maniraguha** for clear assignment guidelines and expectations
-- **AUCA IT Department** for providing Oracle database infrastructure
-- **Oracle Corporation** for comprehensive documentation and learning resources
-
----
 
 **Note:** This assignment demonstrates foundational Oracle Database Administration skills that are critical for professional database development and management roles.
 
 ---
 
-*Repository maintained by: Muggisha (29190)*  
+*Repository maintained by: Mugisha (29190)*  
 *Course: Database Development with PL/SQL (INSY 8311)*  
 *Academic Year: 2025-2026*  
 *Institution: Adventist University of Central Africa (AUCA)*
